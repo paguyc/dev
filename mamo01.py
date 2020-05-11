@@ -1,1 +1,1 @@
-intel
+print('One line')
