@@ -1,0 +1,10 @@
+Index: title01.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- title01.py	(revision 0ea6894b32ad0d956b2f360ef6cd2f7317184059)
++++ title01.py	(revision 0ea6894b32ad0d956b2f360ef6cd2f7317184059)
+@@ -0,0 +1,1 @@
++print('Hello, World!')
+\ No newline at end of file
